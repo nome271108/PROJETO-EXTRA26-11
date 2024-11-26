@@ -1,0 +1,47 @@
+body{
+    color: rgb(255, 255, 255);
+    background: rgb(255, 111, 16);
+    margin: 0px;
+    font-family: "chakra petch", sans-serif;
+    margin-bottom: 100px;
+    text-rendering: auto;
+    text-align:unset;
+    padding: 50px;
+    margin-top: -30px;
+    margin-bottom: -20px;
+}
+h1{
+    text-align: center;
+    font-family: "chakra petch", sans-serif;
+}
+.passo1{
+    text-align: center;
+    margin-left: 41px;
+    font-family: "chakra petch", sans-serif;
+}
+.passo2{
+    text-align: center;
+    font-family: "chakra petch", sans-serif;
+    margin-right: 41px;
+}
+.passo3{
+    text-align: center;
+    font-family: "chakra petch", sans-serif;
+    margin-right:170px;
+}
+.passo4{
+    text-align: center;
+    font-family: "chakra petch", sans-serif;
+    margin-right: 350px;
+}
+.fotos1{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    font-family: "chakra petch", sans-serif;
+}
+.passo5{
+    text-align: center;
+    color: black;
+    font-family: "chakra petch", sans-serif;
+}
